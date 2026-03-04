@@ -1,5 +1,6 @@
 # UI-6-Pantallas-Abraham-Ochoa
 <img width="758" height="718" alt="image" src="https://github.com/user-attachments/assets/e1f7ec6b-0712-4769-927c-a197f4e77686" />
+<img width="433" height="686" alt="image" src="https://github.com/user-attachments/assets/eafcc4d7-5294-4d58-a86b-a1a6f02351ba" />
 
 
 <img width="759" height="712" alt="image" src="https://github.com/user-attachments/assets/e9543d53-d628-4eba-a1e6-e269e5d66aac" />
